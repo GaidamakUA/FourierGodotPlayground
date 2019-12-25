@@ -16,3 +16,6 @@ https://gaidamakua.github.io/FourierGodotPlayground/
 To customize circle you have to select one at the bottom left.
 
 If you have UI suggestions or know how to make it more user friendly - please create an issue.
+
+## License
+MIT
