@@ -1,6 +1,6 @@
 # FourierGodotPlayground
-This is the visualization of Fourier's series you can play around with. You can:Customize radius
-
+This is the visualization of Fourier's series you can play around with. You can:
+* Customize radius
 * Customize frequency
 * Customize phase displacement
 * Add more circles
